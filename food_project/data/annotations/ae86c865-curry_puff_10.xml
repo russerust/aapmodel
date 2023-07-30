@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+<folder>images</folder>
+<filename>ae86c865-curry_puff_10.png</filename>
+<source>
+<database>MyDatabase</database>
+<annotation>COCO2017</annotation>
+<image>flickr</image>
+<flickrid>NULL</flickrid>
+<annotator>1</annotator>
+</source>
+<owner>
+<flickrid>NULL</flickrid>
+<name>Label Studio</name>
+</owner>
+<size>
+<width>3000</width>
+<height>2000</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>Curry Puff</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>1129</xmin>
+<ymin>477</ymin>
+<xmax>2069</xmax>
+<ymax>1785</ymax>
+</bndbox>
+</object>
+<object>
+<name>Curry Puff</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>592</xmin>
+<ymin>258</ymin>
+<xmax>1721</xmax>
+<ymax>954</ymax>
+</bndbox>
+</object>
+<object>
+<name>Curry Puff</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>542</xmin>
+<ymin>39</ymin>
+<xmax>1338</xmax>
+<ymax>556</ymax>
+</bndbox>
+</object>
+<object>
+<name>Curry Puff</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>19</xmin>
+<ymin>243</ymin>
+<xmax>849</xmax>
+<ymax>1118</ymax>
+</bndbox>
+</object>
+<object>
+<name>Curry Puff</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>199</xmin>
+<ymin>915</ymin>
+<xmax>1233</xmax>
+<ymax>1701</ymax>
+</bndbox>
+</object>
+</annotation>

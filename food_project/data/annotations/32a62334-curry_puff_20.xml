@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+<folder>images</folder>
+<filename>32a62334-curry_puff_20.png</filename>
+<source>
+<database>MyDatabase</database>
+<annotation>COCO2017</annotation>
+<image>flickr</image>
+<flickrid>NULL</flickrid>
+<annotator>1</annotator>
+</source>
+<owner>
+<flickrid>NULL</flickrid>
+<name>Label Studio</name>
+</owner>
+<size>
+<width>600</width>
+<height>870</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>Curry Puff</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>36</xmin>
+<ymin>443</ymin>
+<xmax>551</xmax>
+<ymax>763</ymax>
+</bndbox>
+</object>
+<object>
+<name>Curry Puff</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>0</xmin>
+<ymin>164</ymin>
+<xmax>458</xmax>
+<ymax>380</ymax>
+</bndbox>
+</object>
+<object>
+<name>Curry Puff</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>8</xmin>
+<ymin>10</ymin>
+<xmax>345</xmax>
+<ymax>170</ymax>
+</bndbox>
+</object>
+</annotation>

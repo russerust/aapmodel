@@ -1,0 +1,20 @@
+item {
+	id: 1
+	name : 'Char Kway Teow'
+}
+item {
+        id: 2
+        name : 'Chendol'
+}
+item {
+        id: 3
+        name : 'Steamed Chicken Rice'
+}
+item {
+        id: 4
+        name : 'Curry Puff'
+}
+item {
+        id: 5
+        name : 'Prata'
+}

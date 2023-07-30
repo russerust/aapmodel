@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+<folder>images</folder>
+<filename>62280590-char_kway_teow_55.png</filename>
+<source>
+<database>MyDatabase</database>
+<annotation>COCO2017</annotation>
+<image>flickr</image>
+<flickrid>NULL</flickrid>
+<annotator>1</annotator>
+</source>
+<owner>
+<flickrid>NULL</flickrid>
+<name>Label Studio</name>
+</owner>
+<size>
+<width>2595</width>
+<height>1700</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>Char Kway Teow</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>431</xmin>
+<ymin>12</ymin>
+<xmax>2295</xmax>
+<ymax>1597</ymax>
+</bndbox>
+</object>
+</annotation>
